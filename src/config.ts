@@ -2,9 +2,9 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "mojo codejo",
+  author: "Joe Baranski",
+  desc: "learning Rust through Advent of Code and writing about it, theme by Sat Naing",
+  title: "gojocojo",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -36,7 +36,7 @@ export const SOCIALS: SocialObjects = [
     name: "Mail",
     href: "mailto:joe.baranski49@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitter",

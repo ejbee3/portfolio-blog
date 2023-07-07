@@ -1,6 +1,7 @@
 ---
 import Hr from "./Hr.astro";
 import Socials from "./Socials.astro";
+import LinkButton from "@components/LinkButton.astro";
 
 const currentYear = new Date().getFullYear();
 
@@ -18,7 +19,8 @@ const { noMarginTop = false } = Astro.props;
     <div class="copyright-wrapper">
       <span>Copyright &#169; {currentYear}</span>
       <span class="separator">&nbsp;|&nbsp;</span>
-      <span>All rights reserved.</span>
+      <LinkButton href="https://astro.build/themes/details/astro-paper/"><span>Theme by Sat Naing.</span></LinkButton>
+      
     </div>
   </div>
 </footer>
