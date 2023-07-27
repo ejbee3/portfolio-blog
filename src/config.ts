@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
   author: "Joe Baranski",
   desc: "learning Rust through Advent of Code and writing about it, theme by Sat Naing",
-  title: "gojocojo",
+  title: "ejb III's learning blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,

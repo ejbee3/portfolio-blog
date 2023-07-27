@@ -13,7 +13,7 @@ Fast forward to now, I've worked professionally in Python, Ruby, and Javascript,
 
 ### About the theme
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme, designed and crafted based on [his personal blog](https://satnaing.dev/blog).
+AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme, designed and crafted based on the creator's [personal blog](https://satnaing.dev/blog).
 
 If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via his [email](mailto:contact@satnaing.dev).
+Or you can even give some feedback via his [email](mailto:contact@satnaing.dev).
